@@ -2,7 +2,7 @@
 
 A responsive two-page frontend for the Product Store, built with **vanilla HTML, CSS, and JavaScript**.
 
-> 🔗 Backend Repo: https://github.com/YOUR_USERNAME/product-store-backend
+> 🔗 Backend Repo: https://github.com/RBCs-lang/product-store-backend
 
 ---
 
